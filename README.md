@@ -5,7 +5,7 @@ Uma página de **Configurações de Perfil** feita com HTML e CSS. Este projeto 
 ## 🔗 Preview
 Veja o preview do projeto em funcionamento [aqui](https://tiagoalves1212.github.io/profile-settings/).
 
-![Preview da Página](img/profile-settings.png)
+![Preview da Página](img/profile-settings.jpg)
 
 ## 🖥️ Tecnologias Utilizadas
 - **HTML5**: Estrutura do conteúdo da página.
